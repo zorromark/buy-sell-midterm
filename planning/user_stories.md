@@ -1,4 +1,4 @@
-### Buy/Sell Listing Website
+### Buy/Sell Listing Website - Midterm Project
 
 An app where you can put different types of things up for sale. 
 
